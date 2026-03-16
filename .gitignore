@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Vector DB / index files
+*.db
+*.sqlite
+*.faiss
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
